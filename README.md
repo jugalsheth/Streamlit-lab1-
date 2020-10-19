@@ -26,6 +26,7 @@ Make sure that you have Python 3.6 or greater installed.
 #Check your python version with the below command
 Python --version
 
+
 #pip install streamlit
 
 I have already installed so requirements satisfied
